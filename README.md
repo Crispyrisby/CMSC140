@@ -1,4 +1,2 @@
 # CMSC140
-/*
-These are the C++ codes that i have learned at Montgomery College and have applied in various other programs
-*/
+This is my journey of learning C++ at an entry college-level lesson which is both challenging and fulfilling. To begin with the first few weeks of the course are regularly devoted to understanding the fundamentals of C++. This incorporates learning around factors, information sorts, and fundamental input/output operations. As the course advances, learning C++ isn't without its challenges. The terminoly was a hard to undertand at first, syntax erros were , but investigating what the issues were about the a program not willing to compile.Those challenges were a great oppeertunity to learn about the most common reasons as to why a code won't compile.
